@@ -15,6 +15,7 @@ import java.util.List;
 @RequestMapping("/socket")
 @RestController
 public class SocketController {
+    // 고신원 수정
     @Autowired
     private SocketRepository socketRepository;
 
