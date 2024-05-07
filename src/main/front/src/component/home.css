@@ -1,0 +1,36 @@
+.home{
+    margin: 20px auto;
+    width: 800px;
+    height: 700px;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+
+.home h1{
+    margin: 20px auto;
+    width: 100px;
+}
+
+.roomLink{
+    margin: 20px auto;
+    width: 500px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 20px;
+    border: 3px solid black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+input[name=user]{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: 3px solid black;
+    display: block;
+    bottom: 0;
+    text-indent: 10px;
+}
+
